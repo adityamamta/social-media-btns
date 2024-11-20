@@ -13,7 +13,8 @@ A sleek, animated set of circular social media buttons using HTML, CSS, and Font
 - CSS3 (with transitions and pseudo-elements)
 - Font Awesome Icons
 
-💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
-adityamamta4@gmail.com
+### 💼 Contact me 
+- linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
+- Email: adityamamta4@gmail.com
 
-<!-- ![preview img](img/social-media-btns-mockup.png) -->
+<!-- ![preview img](image/card-hover-effect-mockup.png) -->
